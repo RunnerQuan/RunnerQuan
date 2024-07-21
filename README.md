@@ -15,8 +15,3 @@ Skills: C++ / Java / Rust / Python / C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/2776115684/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/2776115684)  
-
