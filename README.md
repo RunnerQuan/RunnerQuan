@@ -1,9 +1,22 @@
-## Hi there 👋
+### Hi there 👋, my name is Jiequan Zheng
+#### a junior student at Sun Yat-Sen University, majoring in Software Engineering
+I really enjoy learning languages and frameworks. I also take pleasure in developing pratical and interesting projects.
 
-I'm Jiequan Zheng, a junior student at Sun Yat-Sen University, majoring in Software Engineering. I really enjoy learning languages and frameworks. I also take pleasure in developing pratical and interesting projects.
+Skills: C++ / Java / Rust / Python / C
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2776115684)
+- 🌱 I’m currently learning Web Application Development. 
+- ⚡ Fun fact: I extremely enjoy running and playing badminton. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2776115684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/2776115684/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/2776115684)  
 
