@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+my+name+is+Jiequan+Zheng&font=Fira&color=F77F00)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+my+name+is+Jiequan+Zheng&font=Fira%20Code&color=F77F00)
 #### a junior student at Sun Yat-Sen University, majoring in Software Engineering
 I really enjoy learning languages and frameworks. I also take pleasure in developing pratical and interesting projects.
 
