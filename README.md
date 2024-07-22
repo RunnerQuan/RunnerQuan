@@ -12,10 +12,10 @@ Skills: C++ / Java / Rust / Python / C
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
-
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=2776115684" alt="GitHub Streak" />
 </div>
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
