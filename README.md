@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+my+name+is+Jiequan+Zheng&font=Montserrat&color=F77F00&duration=4000&pause=1500)
-#### a junior student at Sun Yat-Sen University, majoring in Software Engineering
+#### A junior student at Sun Yat-Sen University, majoring in Software Engineering.
 I really enjoy learning languages and frameworks. I also take pleasure in developing pratical and interesting projects.
 
 Skills: C++ / Java / Rust / Python / C
@@ -16,4 +16,7 @@ Skills: C++ / Java / Rust / Python / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true)  
 
-![RunnerQuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
+
