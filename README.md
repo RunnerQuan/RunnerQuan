@@ -18,5 +18,11 @@ Skills: C++ / Java / Rust / Python / C
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684" alt="Top Langs" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true" alt="GitHub stats" style="margin-right: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=2776115684" alt="GitHub Streak">
+</div>
+
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
 
