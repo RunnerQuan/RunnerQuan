@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Jiequan Zheng
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+my+name+is+Jiequan+Zheng)
 #### a junior student at Sun Yat-Sen University, majoring in Software Engineering
 I really enjoy learning languages and frameworks. I also take pleasure in developing pratical and interesting projects.
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 Skills: C++ / Java / Rust / Python / C
 
 - 🌱 I’m currently learning Web Application Development. 
-- ⚡ Fun fact: I extremely enjoy running and playing badminton. 
+- ⚡ I extremely enjoy running and playing badminton. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2776115684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
