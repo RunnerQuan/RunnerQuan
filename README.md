@@ -11,39 +11,46 @@
 <div align="center">
   
     🌱 I really enjoy learning languages and frameworks. I also take pleasure in developing practical and interesting projects
+    
     🔭 Skills: C++ / Java / Rust / Python / C
+    
     🌱 I’m currently learning Web Application Development
+    
     ⚡ I extremely enjoy running and playing badminton
 
 </div>
 
 <div align="center"> 
 
-  ![Metrics](/github-metrics.svg)
+    ![Metrics](/github-metrics.svg)
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2776115684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2776115684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
 
-  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+    <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 </div>
 
 <div align="center">
     
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+    <h2>🐍 My Contributions 🐍</h2>
   
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
   
-  <br/><br/><br/>
+    <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=2776115684&show_icons=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=2776115684" alt="GitHub Streak" />
+<div align=center>
+    <img width=390 src="https://streak-stats.demolab.com/?user=2776115684&count_private=true&border_radius=10" alt="GitHub Streak" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=2776115684&count_private=true&show_icons=github&border_radius=10" alt="GitHub stats" />
+    
+    <br/>
+    
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684" alt="Top Langs" />
 </div>
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
