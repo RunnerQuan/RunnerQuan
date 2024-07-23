@@ -6,7 +6,7 @@
   
 </h1>
 
-<h3 align="center">A junior student at **Sun Yat-Sen University**, majoring in Software Engineering</h3>
+<h3 align="center">A junior student at Sun Yat-Sen University, majoring in Software Engineering</h3>
 
 <br/>
 
@@ -40,7 +40,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
   
-  <br/>
+  <br/><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -57,6 +57,6 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
