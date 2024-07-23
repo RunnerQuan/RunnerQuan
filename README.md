@@ -53,7 +53,7 @@
     
   <br/>
     
-  <img width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 
 </div>
 
