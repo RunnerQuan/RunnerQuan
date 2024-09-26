@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=2776115684.2776115684" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RunnerQuan.RunnerQuan" />
 
 <h1 align="center">
   
@@ -26,7 +26,7 @@
 
   ![Metrics](/github-metrics.svg)
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2776115684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RunnerQuan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JieQuan13476)  
 
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
@@ -36,9 +36,9 @@
     
   <h2>🐍 My Contributions 🐍</h2>
   
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2776115684/2776115684/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RunnerQuan/RunnerQuan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RunnerQuan/RunnerQuan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RunnerQuan/RunnerQuan/output/github-contribution-grid-snake.svg">
   
   <br/><br/>
 </div>
@@ -48,15 +48,15 @@
 
 <div align=center>
   
-  <img width=390 src="https://streak-stats.demolab.com/?user=2776115684&count_private=true&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=2776115684&count_private=true&show_icons=github&border_radius=10" alt="GitHub stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=RunnerQuan&count_private=true&border_radius=10" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RunnerQuan&count_private=true&show_icons=github&border_radius=10" alt="GitHub stats" />
     
   <br/>
     
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2776115684&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunnerQuan&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
 
 </div>
 
 <br/><br/>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2776115684&bg_color=add8e6)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RunnerQuan&bg_color=add8e6)
