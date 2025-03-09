@@ -14,7 +14,7 @@
   
   🌱 I really enjoy learning languages and frameworks. I also take pleasure in developing practical and interesting projects
     
-  🔭 Skills: **C++** / **Java** / Rust / Python / C
+  🔭 Skills:  **Java** / C++
     
   🌱 I’m currently learning Web Application Development
     
