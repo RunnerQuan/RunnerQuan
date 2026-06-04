@@ -6,7 +6,7 @@
   
 </h1>
 
-<h3 align="center">A junior student at Sun Yat-Sen University, majoring in Software Engineering</h3>
+<h3 align="center">A recent graduate from Sun Yat-Sen University, majoring in Software Engineering</h3>
 
 <br/>
 
