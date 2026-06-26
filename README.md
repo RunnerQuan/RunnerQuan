@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jiequan Zheng 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=42&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=720&lines=Hi%2C+I'm+Jiequan+Zheng+%F0%9F%91%8B" alt="Hi, I'm Jiequan Zheng" />
 
 ### AI-Native Full-Stack Builder · Agentic Product Developer
 
@@ -8,10 +8,10 @@ I turn product ideas into working AI applications — from problem framing and U
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Building+AI+agents+that+solve+real+problems;Shipping+full-stack+products+with+LLMs+and+multimodal+AI;Vibe+coding%2C+grounded+in+software+engineering" alt="Typing SVG" />
 
-<a href="https://runnerquan.github.io/"><img src="https://img.shields.io/badge/Blog-111827?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
-<a href="mailto:zhengjq33@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/RunnerQuan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=RunnerQuan&style=flat-square&color=0ea5e9" alt="Profile views" />
+<a href="https://runnerquan.github.io/"><img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" /></a>
+<a href="mailto:zhengjq33@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/RunnerQuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=RunnerQuan&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 
 </div>
 
@@ -63,46 +63,65 @@ I turn product ideas into working AI applications — from problem framing and U
   <img src="https://img.shields.io/badge/MoonBit-5B21B6?style=for-the-badge" alt="MoonBit" />
 </p>
 
-## Featured Projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=2200&pause=1200&color=2563EB&center=true&vCenter=true&width=420&lines=%E2%9C%A8+Featured+Projects" alt="Featured Projects" />
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [PostureFit](https://github.com/RunnerQuan/Posturefit)
+### 🧘 [PostureFit](https://github.com/RunnerQuan/Posturefit)
+
+> AI posture coach · hackathon-winning multimodal product
 
 A hackathon-winning AI posture coach using MediaPipe BlazePose to detect 33 body keypoints and a Coze Agent to generate personalized training plans and adaptive feedback.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=netlify&logoColor=white)](https://posturefitness.netlify.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/Posturefit)
 
 `React` · `TypeScript` · `MediaPipe` · `Coze Agent` · `Multimodal AI`
 
 </td>
 <td width="50%" valign="top">
 
-### [BiasBreaker Career](https://github.com/RunnerQuan/BiasBreaker-Career)
+### 🧩 [BiasBreaker Career](https://github.com/RunnerQuan/BiasBreaker-Career)
+
+> AI career assistant · explainable screening support
 
 An AI career assistant for candidates who may be misread by automated screening. It combines rules, LLM calibration, embeddings, evidence-chain analysis, and contextual follow-up chat.
 
-`Next.js 15` · `Fastify` · `LLM` · `Embeddings` · `Explainable AI`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=netlify&logoColor=white)](https://biasbreaker-career.netlify.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/BiasBreaker-Career)
 
-[Live Demo](https://biasbreaker-career.netlify.app/)
+`Next.js 15` · `Fastify` · `LLM` · `Embeddings` · `Explainable AI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Quan-RPC](https://github.com/RunnerQuan/Quan-RPC-Framework)
+### ⚙️ [Quan-RPC](https://github.com/RunnerQuan/Quan-RPC-Framework)
+
+> Distributed systems foundation · custom RPC framework
 
 A Java TCP RPC framework with a custom protocol, service registry, heartbeat-based health checks, modular architecture, and Docker support.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/Quan-RPC-Framework)
 
 `Java 11` · `TCP` · `RPC` · `Service Registry` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### [TalentFlow](https://github.com/RunnerQuan/talentflow)
+### 🤖 [TalentFlow](https://github.com/RunnerQuan/talentflow)
+
+> Multi-agent recruitment platform · evidence-based hiring
 
 A multi-agent recruitment decision platform that connects resume parsing, candidate profiling, skill graphs, JD matching, interview follow-ups, and evidence-based hiring recommendations.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=netlify&logoColor=white)](https://ai-talentflow.netlify.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/talentflow)
 
 `Next.js 16` · `React 19` · `Vercel AI SDK` · `Multi-Agent Workflow`
 
@@ -111,28 +130,33 @@ A multi-agent recruitment decision platform that connects resume parsing, candid
 <tr>
 <td width="50%" valign="top">
 
-### [MoonLimit](https://github.com/RunnerQuan/moonlimit)
+### 🌙 [MoonLimit](https://github.com/RunnerQuan/moonlimit)
+
+> Open-source MoonBit toolkit · rate limiting infrastructure
 
 A composable, deterministic rate-limiting toolkit for MoonBit with multiple limiter algorithms, keyed policies, workload simulations, extensive tests, and CI.
+
+[![Mooncakes](https://img.shields.io/badge/Mooncakes_Community-6D28D9?style=flat-square)](https://mooncakes.io/docs/RunnerQuan/moonlimit@0.1.0)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/moonlimit)
 
 `MoonBit` · `Rate Limiting` · `Policy Engine` · `Testing` · `CI`
 
 </td>
 <td width="50%" valign="top">
 
-### [AI Writing SaaS Skill](https://github.com/RunnerQuan/ai-writing-assistant-saas-skill)
+### ✍️ [AI Writing SaaS Skill](https://github.com/RunnerQuan/ai-writing-assistant-saas-skill)
+
+> Reusable builder · AI SaaS template generation
 
 A reusable Skill that generates a deployable AI writing SaaS template with frontend, Edge Functions, KV persistence, authentication, payments, sharing, and AI chat.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RunnerQuan/ai-writing-assistant-saas-skill)
 
 `React` · `Vite` · `Edge Functions` · `KV` · `AI SaaS`
 
 </td>
 </tr>
 </table>
-
-## Research
-
-- **[FaiRLLM](https://github.com/RunnerQuan/FaiRLLM-Dataset)** — benchmark scripts for evaluating fairness in LLM recommendation outputs across sensitive attributes.
 
 ## How I Build
 
