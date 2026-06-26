@@ -63,17 +63,17 @@ I turn product ideas into working AI applications — from problem framing and U
   <img src="https://img.shields.io/badge/MoonBit-5B21B6?style=for-the-badge" alt="MoonBit" />
 </p>
 
-## Featured AI Products
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [TalentFlow](https://github.com/RunnerQuan/talentflow)
+### [PostureFit](https://github.com/RunnerQuan/Posturefit)
 
-A multi-agent recruitment decision platform that connects resume parsing, candidate profiling, skill graphs, JD matching, interview follow-ups, and evidence-based hiring recommendations.
+A hackathon-winning AI posture coach using MediaPipe BlazePose to detect 33 body keypoints and a Coze Agent to generate personalized training plans and adaptive feedback.
 
-`Next.js 16` · `React 19` · `Vercel AI SDK` · `Multi-Agent Workflow`
+`React` · `TypeScript` · `MediaPipe` · `Coze Agent` · `Multimodal AI`
 
 </td>
 <td width="50%" valign="top">
@@ -91,11 +91,31 @@ An AI career assistant for candidates who may be misread by automated screening.
 <tr>
 <td width="50%" valign="top">
 
-### [PostureFit](https://github.com/RunnerQuan/Posturefit)
+### [Quan-RPC](https://github.com/RunnerQuan/Quan-RPC-Framework)
 
-A hackathon-winning AI posture coach using MediaPipe BlazePose to detect 33 body keypoints and a Coze Agent to generate personalized training plans and adaptive feedback.
+A Java TCP RPC framework with a custom protocol, service registry, heartbeat-based health checks, modular architecture, and Docker support.
 
-`React` · `TypeScript` · `MediaPipe` · `Coze Agent` · `Multimodal AI`
+`Java 11` · `TCP` · `RPC` · `Service Registry` · `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [TalentFlow](https://github.com/RunnerQuan/talentflow)
+
+A multi-agent recruitment decision platform that connects resume parsing, candidate profiling, skill graphs, JD matching, interview follow-ups, and evidence-based hiring recommendations.
+
+`Next.js 16` · `React 19` · `Vercel AI SDK` · `Multi-Agent Workflow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MoonLimit](https://github.com/RunnerQuan/moonlimit)
+
+A composable, deterministic rate-limiting toolkit for MoonBit with multiple limiter algorithms, keyed policies, workload simulations, extensive tests, and CI.
+
+`MoonBit` · `Rate Limiting` · `Policy Engine` · `Testing` · `CI`
 
 </td>
 <td width="50%" valign="top">
@@ -110,10 +130,8 @@ A reusable Skill that generates a deployable AI writing SaaS template with front
 </tr>
 </table>
 
-## Systems, Research & Open Source
+## Research
 
-- **[MoonLimit](https://github.com/RunnerQuan/moonlimit)** — a composable, deterministic rate-limiting toolkit for MoonBit with multiple limiter algorithms, policy composition, tests, and CI.
-- **[Quan-RPC](https://github.com/RunnerQuan/Quan-RPC-Framework)** — a Java TCP RPC framework with a custom protocol, service registry, heartbeat-based health checks, and Docker support.
 - **[FaiRLLM](https://github.com/RunnerQuan/FaiRLLM-Dataset)** — benchmark scripts for evaluating fairness in LLM recommendation outputs across sensitive attributes.
 
 ## How I Build
